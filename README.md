@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m working at Accenture as an Advanced App Engineering Analyst.
-- 🌱 I’m currently learning Spring Frameworks
+- 🌱 I’m currently learning Spring Frameworks and System Design
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
   💬 Ask me about ... -->
